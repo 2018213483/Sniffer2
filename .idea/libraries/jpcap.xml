@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jpcap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Software/jpcap/jpcap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
